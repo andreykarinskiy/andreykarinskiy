@@ -40,6 +40,6 @@
 исследования, постановка и оптимизация процессов разработки ПО.
 
 ## Примеры рабочих документов
-
+- [Статьи и материалы](https://andreykarinskiy.github.io)
 - [Образцы кода](https://github.com/andreykarinskiy/System.ComponentModel.Annotations.Validation)
 - [Черновики SAD, учебные материалы, презентации, инструкции](/Examples)
