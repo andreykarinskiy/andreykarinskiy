@@ -35,8 +35,4 @@
 ## Примеры рабочих документов
 - [Образцы кода](https://github.com/andreykarinskiy/System.ComponentModel.Annotations.Validation)
 - [Черновики SAD, учебные материалы, презентации, инструкции](/Examples)
-- Примеры диаграмм:
-![data-quality](/Examples/osdu-platform-infra.png)
-![osdu-top-level](/Examples/osdu-platform-and-infra.png)
-![osdu-top-level](/Examples/osdu-top-level.png)
-![reference-ddms](/Examples/reference-ddms.png)
+- [GIST](https://gist.github.com/andreykarinskiy)
