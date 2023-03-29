@@ -35,4 +35,4 @@
 ## Примеры рабочих документов
 - [Образцы кода](https://github.com/andreykarinskiy/System.ComponentModel.Annotations.Validation)
 - [Черновики SAD, учебные материалы, презентации, инструкции](/Examples)
-- [GIST](https://gist.github.com/andreykarinskiy)
+
